@@ -1,0 +1,6 @@
+shipment_id,client_sector,origin_port,corridor_hub,teu_count,cargo_tonnes,transport_mode,distance_km,fuel_or_powertrain
+UAE-001,Pharmaceuticals,Jebel Ali Port,Dubai South Logistics District,4,48.0,Diesel Drayage Truck,28,Diesel Ultra-Low Sulfur
+UAE-002,Electronics,Jebel Ali Port,Al Maktoum Int Airport DWC,10,120.0,Diesel Drayage Truck,32,Diesel Ultra-Low Sulfur
+UAE-003,Retail & Apparel,Khalifa Port,Dubai South Logistics District,6,72.0,Biofuel B20 Truck,95,Biodiesel B20
+UAE-004,Cold Chain Food,Jebel Ali Port,Dubai South Logistics District,2,24.0,Electric Heavy Truck,28,Solar Grid Electric
+UAE-005,Aviation Spares,Khalifa Port,Al Maktoum Int Airport DWC,8,96.0,Diesel Drayage Truck,105,Diesel Ultra-Low Sulfur
